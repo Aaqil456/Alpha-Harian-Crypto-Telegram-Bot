@@ -32,6 +32,7 @@ def translate_text_gemini(text: str, model: str = GEMINI_MODEL) -> str:
         "Do not use emojis unless they appear in the original text.\n"
         "for spesific word which is Market Events translate it into Update Pasaran \n"
         "for spesific word which is Top Mindshare Gainers translate it into Projek Crypto Viral Hari Ini \n"
+        "for spesific word which is ref translate it into sumber, for example ref1 is sumber1 ref2 is sumber2 \n"
         "Do not translate brand names or product names.\n\n"
         f"Text:\n{text}"
     )
