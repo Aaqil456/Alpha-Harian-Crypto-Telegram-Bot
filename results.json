@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-16T12:12:06.384500",
+    "timestamp": "2026-05-17T12:55:04.510767",
     "messages": [
         {
             "channel_link": "https://t.me/overheardonct",
@@ -360,6 +360,11 @@
             "channel_link": "https://t.me/aixbtfeed",
             "original_text": "\u2022   $2.63B options expiring May 15 (Deribit). BTC max pain $80k, ETH $2,300. Both trading near pins = muted short-term vol likely. Post-expiry could see directional move as gamma unwinds.",
             "date": "2026-05-16 12:11:00+00:00"
+        },
+        {
+            "channel_link": "https://t.me/aixbtfeed",
+            "original_text": "\u2022 Security incidents ongoing: THORChain $10.7M exploit halted trading 12 hours, RUNE down 12%. Ledger data breach leaked addresses. Infrastructure still high-risk, custody discipline critical.",
+            "date": "2026-05-17 12:02:10+00:00"
         }
     ]
 }
