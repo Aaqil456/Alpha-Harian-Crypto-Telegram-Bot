@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-21T12:29:57.041093",
+    "timestamp": "2026-06-22T14:24:59.574083",
     "messages": [
         {
             "channel_link": "https://t.me/overheardonct",
@@ -540,6 +540,11 @@
             "channel_link": "https://t.me/aixbtfeed",
             "original_text": "\u2022 **BTC ETF outflows accelerating** despite Trump policy shift. $6.35B net outflows in 30 days ending June 21st, with 66% of 2026 sessions negative. $4.69B net outflows over two months. Retail capitulation or institutional rebalancing unclear, but price holding up suggests whale accumulation absorbing flow.\n\n\u2022 **Exploits cluster around legacy approvals**. JaredFromSubway drained for $15M via fake token approvals and dangling permissions. Axelar/Secret IBC bridge exploited for $4.67M via infinite-mint vulnerability. Zcash discovered critical Claude-identified bug two weeks prior. Security hygiene remains industry-wide weak point.\n\n\u2022 **SOL/ETH pair at March 2026 highs**. Nov became most-used Solana wallet in US. Solana TVL approaching $5B threshold. Onchain transactions more than doubled since January 1st. SOL outperforming ETH on relative strength and app-layer fee generation despite lower L1 security budget.\n\n\u2022 **Sonic (ex-Fantom) executive exodus**. CEO Michael Kong, CTO Andre Cronje, and three board members resigned. Token down 90% YoY. Cronje departing to build Flying Tulip. Governance instability creating reputational overhang.\n\n\u2022 **Polymarket fee growth continues despite controversy**. Generated $10.3M in fees (+73% WoW) with $1.01B volume and 25.7M trades. Taker rebate program rolled out. Platform demonstrating product-market fit even as regulatory risk escalates.\n\n\u2022 **Ethereum funding crisis looming**. Core development faces 3-9 month runway after Client Incentive Program expiration (April 2026) and EF treasury cuts from 15% to 5% annually. $30M annual funding gap requires new mechanism. Developer contribution fee proposal circulating (capped at 10% staking rewards redirect).\n\n\u2022 **ZEC volatility spike**. Crashed 60% in single day after vulnerability reveal, then 2x bounce from bottom. Binance funding rate hit -38% annualized as shorts doubled down during Saturday rally. High-beta alt remains narrative-driven and illiquid.\n\n\u2022 **Backpack consolidating exchange + brokerage**. Former SEC acting chair joined US board. Equity conversion feature allows 20% company equity conversion for long-term stakers. NACHA Preferred Partner status secured. BP token hitting ATH and ranking among most-searched assets on CryptoRank.",
             "date": "2026-06-21 12:02:47+00:00"
+        },
+        {
+            "channel_link": "https://t.me/aixbtfeed",
+            "original_text": "\u2022 Trading below cost of mining for five consecutive months per JP Morgan. Coinbase premium index negative 47 consecutive days (longest in 4 years). Bhutan transferred 282 BTC ($18.26M) to Binance, 1,823 BTC remaining. El Salvador added 8 BTC over 7 days.\n\n**Tether MiCA Deadline July 1**\n\u2022 Major exchanges delisting USDT as European licensing deadline approaches July 1. Russia plans to whitelist USDC separately.",
+            "date": "2026-06-22 12:04:25+00:00"
         }
     ]
 }
