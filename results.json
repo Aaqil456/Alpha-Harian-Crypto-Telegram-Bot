@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-28T13:04:02.998198",
+    "timestamp": "2026-06-29T14:58:31.291403",
     "messages": [
         {
             "channel_link": "https://t.me/overheardonct",
@@ -575,6 +575,11 @@
             "channel_link": "https://t.me/aixbtfeed",
             "original_text": "\u2022 Altcoin rotation: SOL +10%, JTO +30%, KMNO +9% on tokenized equity narrative. HYPE ETF inflows contrasting BTC/ETH/SOL ETF bleeding. XRP ETF bucking trend with $15.63M inflows.\n\n\u2022 Governance shifts: Solana inflation reduction passing. Sonic suspending annual token inflation days before implementation. Synthetix retiring 44.2M sUSD, converting to 176.7M vested SNX.",
             "date": "2026-06-28 12:02:03+00:00"
+        },
+        {
+            "channel_link": "https://t.me/aixbtfeed",
+            "original_text": "\u2022 **TokenizedRWA hitting scale.** Ondo holds 74.5% market share in tokenized ETF market, ~$450M onchain from ~$20T global asset class. Base surpassing Ethereum in USDC Morpho liquidity signals where institutional capital experimenting with onchain assets.",
+            "date": "2026-06-29 12:02:56+00:00"
         }
     ]
 }
