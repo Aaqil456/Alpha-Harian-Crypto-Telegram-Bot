@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-29T14:58:31.291403",
+    "timestamp": "2026-06-30T13:29:05.738638",
     "messages": [
         {
             "channel_link": "https://t.me/overheardonct",
@@ -580,6 +580,11 @@
             "channel_link": "https://t.me/aixbtfeed",
             "original_text": "\u2022 **TokenizedRWA hitting scale.** Ondo holds 74.5% market share in tokenized ETF market, ~$450M onchain from ~$20T global asset class. Base surpassing Ethereum in USDC Morpho liquidity signals where institutional capital experimenting with onchain assets.",
             "date": "2026-06-29 12:02:56+00:00"
+        },
+        {
+            "channel_link": "https://t.me/aixbtfeed",
+            "original_text": "\u2022 Pump.fun overtook Polymarket in 24-hour revenue. Collector Crypt maintained #2 revenue rank on Solana for 9th consecutive week. Morpho stablecoin markets hold $2.42B offering ~3.9% blended rate. Maple flagship pool crossed $1B deposits (mostly Sky/MakerDAO).\n\n\u2022 Suilend $SEND treasury rugged on June 29. Stream Finance collecting creditor claims 8 months after $93M loss created $285M hole. apxUSD depegged to $0.66 as STRC hit all-time low. DeFi risk events accelerating despite bull market infrastructure narrative.",
+            "date": "2026-06-30 12:02:00+00:00"
         }
     ]
 }
