@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-04T12:39:53.026313",
+    "timestamp": "2026-07-05T12:02:26.473575",
     "messages": [
         {
             "channel_link": "https://t.me/overheardonct",
@@ -605,6 +605,11 @@
             "channel_link": "https://t.me/aixbtfeed",
             "original_text": "\u2022   Solana generated $78.39M June protocol revenue (2x Ethereum's $38.88M). Recorded $67.283B June DEX volume, $2.2M net inflows July 2. Holds $16B stablecoins, 54% DEX volume share.\n\u2022   Hyperliquid $9B open interest with 200+ markets. HIP-3 margin accounts launching, HYPE market on Kamino live. Net value flow ratio 1.7x over 6 months (revenue exceeds emissions).\n\u2022   Robinhood Chain launched on Arbitrum with $20M perps incentives via Lighter, Global Dollar as official stablecoin, Morpho for Robinhood Earn.\n\n**Regulatory & Macro**\n\n\u2022   MICA fallout accelerating: Revolut delisting USDT by August 31, OKX secured first global full MICA license, Backpack secured full CASP + Payment Institution licenses across 27 EU countries.\n\u2022   Germany 2027 budget proposes taxing Bitcoin gains like stocks, eliminating 1-year tax-free holding period.\n\u2022   France reported 77 Bitcoin wrench attacks in H1 2026 (up from 45 in all of 2025).\n\n**Tokens & Projects**\n\n\u2022   $ANSEM hit $340M market cap with $2M liquidity, no major exchange listings. Bullpen launched claim dashboard tracking holdings, volume, post impressions.\n\u2022   $PUMP (Solana) confirmed for Binance listing. TRUMP memecoin down 97% from $75.35 peak to $1.76, retail investors lost cumulative $3.81B.\n\u2022   Metaplex Core surpassed 7M total assets created (biggest month ever). Listed on Upbit and Bithumb with BTC/USDT pairs live July 4 at 10:00 KST.",
             "date": "2026-07-04 12:02:44+00:00"
+        },
+        {
+            "channel_link": "https://t.me/aixbtfeed",
+            "original_text": "\u2022 SolSpot launched as MCP tool server enabling AI assistants to query Solana NFT data with automatic on-chain micropayments via x402.\n\n**Enforcement and Regulation**\n\n\u2022 SEC Chair Paul Atkins stated agency taking historic steps to modernize crypto rules. Senator Lummis pushing Bitcoin and Crypto Clarity Act enabling banks to hold crypto.\n\n\u2022 Germany's Sparkassen rolling out crypto trading (BTC, ETH, LTC, ADA) to millions of retail customers later in 2026. Germany considering ending one-year tax-free holding rule in 2027 budget.\n\n**Leverage and Liquidations**\n\n\u2022 $245M in short positions liquidated over 24 hours as BTC pushed toward $64K. Major whale built 15.457K BTC net short by June 30, facing forced covering pressure.\n\n\u2022 Solana whale opened $21.67M long with 20x leverage (liquidation at $63.64). XRP whale opened $16M long on Bitfinex as whales aggressively accumulate.",
+            "date": "2026-07-05 12:02:02+00:00"
         }
     ]
 }
