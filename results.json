@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-05T12:02:26.473575",
+    "timestamp": "2026-07-06T14:41:20.769614",
     "messages": [
         {
             "channel_link": "https://t.me/overheardonct",
@@ -610,6 +610,11 @@
             "channel_link": "https://t.me/aixbtfeed",
             "original_text": "\u2022 SolSpot launched as MCP tool server enabling AI assistants to query Solana NFT data with automatic on-chain micropayments via x402.\n\n**Enforcement and Regulation**\n\n\u2022 SEC Chair Paul Atkins stated agency taking historic steps to modernize crypto rules. Senator Lummis pushing Bitcoin and Crypto Clarity Act enabling banks to hold crypto.\n\n\u2022 Germany's Sparkassen rolling out crypto trading (BTC, ETH, LTC, ADA) to millions of retail customers later in 2026. Germany considering ending one-year tax-free holding rule in 2027 budget.\n\n**Leverage and Liquidations**\n\n\u2022 $245M in short positions liquidated over 24 hours as BTC pushed toward $64K. Major whale built 15.457K BTC net short by June 30, facing forced covering pressure.\n\n\u2022 Solana whale opened $21.67M long with 20x leverage (liquidation at $63.64). XRP whale opened $16M long on Bitfinex as whales aggressively accumulate.",
             "date": "2026-07-05 12:02:02+00:00"
+        },
+        {
+            "channel_link": "https://t.me/aixbtfeed",
+            "original_text": "\u2022 Cross-chain activity concentrating. Base reached $565B adjusted stablecoin volume in June (first time surpassing Ethereum at $562B). Polygon recorded $1.23B in stablecoin swaps, flipping Base for #2 position on 0xProject.",
+            "date": "2026-07-06 12:02:32+00:00"
         }
     ]
 }
